@@ -18,8 +18,8 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![](https://img.shields.io/badge/Git-EE543C?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Redis-EE543C?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Docker-547FFC?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Github%20Actions-469BFC?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Amazon%20EC2-FEA634?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Amazon%20S3-68A34A?style=for-the-badge&logo=mysql&logoColor=white)
